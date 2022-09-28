@@ -1,0 +1,18 @@
+.bnt-clear{
+    width: 100%;
+    display: flex;    
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    font-size: 25px;
+    background-color: #73777B;
+    color: white;
+    border: 1px solid grey;
+    margin: 4px;
+    cursor: pointer;
+    user-select: none;
+}
+
+.bnt-clear:hover{
+    background-color: #eb0000;
+}
